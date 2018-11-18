@@ -1,6 +1,6 @@
 {
     "type": "project",
-    "license": "GNU_3",
+    "license": "GPL-3.0-or-later",
     "name": "crayner/gibbon",
     "require": {
         "php": "^7.2",

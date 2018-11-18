@@ -1,7 +1,7 @@
 {
     "type": "project",
-    "license": "proprietary",
-    "name": 'Gibbon',
+    "license": "GNU_3",
+    "name": "Gibbon",
     "require": {
         "php": "^7.2",
         "ext-ctype": "*",
